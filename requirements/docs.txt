@@ -75,7 +75,7 @@ pyasn1-modules==0.2.8
     #   google-auth
 pycryptodome==3.16.0
     # via -r requirements/base.txt
-pygments==2.13.0
+pygments==2.15.0
     # via sphinx
 python-dateutil==2.8.2
     # via
