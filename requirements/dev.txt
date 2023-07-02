@@ -130,7 +130,7 @@ pycparser==2.21
     # via cffi
 pycryptodome==3.16.0
     # via -r requirements/base.txt
-pygments==2.13.0
+pygments==2.15.0
     # via
     #   readme-renderer
     #   rich
