@@ -73,7 +73,7 @@ pyasn1-modules==0.2.8
     # via
     #   -r requirements/base.txt
     #   google-auth
-pycryptodome==3.16.0
+pycryptodome==3.19.1
     # via -r requirements/base.txt
 pygments==2.13.0
     # via sphinx
