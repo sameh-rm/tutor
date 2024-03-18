@@ -12,7 +12,7 @@ astroid==2.12.13
     # via pylint
 attrs==22.1.0
     # via scriv
-black==22.10.0
+black==24.3.0
     # via -r requirements/dev.in
 bleach==5.0.1
     # via readme-renderer
