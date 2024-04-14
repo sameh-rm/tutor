@@ -58,7 +58,7 @@ google-auth==2.15.0
     # via
     #   -r requirements/base.txt
     #   kubernetes
-idna==3.4
+idna==3.7
     # via
     #   -r requirements/base.txt
     #   requests
