@@ -9,3 +9,4 @@ tutor-minio>=15.0.0,<16.0.0
 tutor-notes>=15.0.0,<16.0.0
 tutor-webui>=15.0.0,<16.0.0
 tutor-xqueue>=15.0.0,<16.0.0
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
