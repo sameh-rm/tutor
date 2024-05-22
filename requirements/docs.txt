@@ -87,7 +87,7 @@ pyyaml==6.0
     # via
     #   -r requirements/base.txt
     #   kubernetes
-requests==2.28.1
+requests==2.32.0
     # via
     #   -r requirements/base.txt
     #   kubernetes
