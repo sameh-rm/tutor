@@ -134,7 +134,7 @@ pygments==2.13.0
     # via
     #   readme-renderer
     #   rich
-pyinstaller==5.7.0
+pyinstaller==5.8.0
     # via -r requirements/dev.in
 pyinstaller-hooks-contrib==2022.14
     # via pyinstaller
